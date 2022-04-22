@@ -1,0 +1,180 @@
+2022-02-03 12:01:19,314 INFO [main] h.j.p.m.Main [Main.java:27] Pokrenula se aplikacija
+2022-02-03 15:04:43,396 INFO [main] h.j.p.m.Main [Main.java:27] Pokrenula se aplikacija
+2022-02-03 15:06:55,086 INFO [main] h.j.p.m.Main [Main.java:27] Pokrenula se aplikacija
+2022-02-03 15:07:02,535 ERROR [main] h.j.p.m.Main [Main.java:367] POGREŠKA!! Unjeli ste istu kategoriju, ponovite odabir2022-02-04 19:54:39,996 INFO [main] h.j.p.m.Main [Main.java:28] Pokrenula se aplikacija
+2022-02-04 19:54:49,061 ERROR [main] h.j.p.m.Main [Main.java:402] POGREŠKA!! Unjeli ste istu kategoriju, ponovite odabir
+2022-02-04 19:55:23,450 ERROR [main] h.j.p.m.Main [Main.java:553] null
+2022-02-04 19:55:40,297 ERROR [main] h.j.p.m.Main [Main.java:486] null
+2022-02-04 19:55:44,958 ERROR [main] h.j.p.m.Main [Main.java:486] null
+2022-02-04 19:55:49,752 ERROR [main] h.j.p.m.Main [Main.java:553] null
+2022-02-04 19:56:14,904 ERROR [main] h.j.p.m.Main [Main.java:320] POGREŠKA!! Artikl se ponavlja, ponovo izaberite artikl!
+2022-02-04 19:56:18,152 ERROR [main] h.j.p.m.Main [Main.java:320] POGREŠKA!! Artikl se ponavlja, ponovo izaberite artikl!
+2022-02-04 20:20:23,264 INFO [main] h.j.p.m.Main [Main.java:28] Pokrenula se aplikacija
+2022-02-04 20:20:52,500 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:22:12,297 ERROR [main] h.j.p.m.Main [Main.java:251] POGREŠKA!! Artikl se ponavlja, ponovo izaberite artikl!
+2022-02-04 20:27:32,309 INFO [main] h.j.p.m.Main [Main.java:28] Pokrenula se aplikacija
+2022-02-04 20:27:39,529 ERROR [main] h.j.p.m.Main [Main.java:402] POGREŠKA!! Unjeli ste istu kategoriju, ponovite odabir
+2022-02-04 20:27:43,153 ERROR [main] h.j.p.m.Main [Main.java:402] POGREŠKA!! Unjeli ste istu kategoriju, ponovite odabir
+2022-02-04 20:27:44,866 ERROR [main] h.j.p.m.Main [Main.java:402] POGREŠKA!! Unjeli ste istu kategoriju, ponovite odabir
+2022-02-04 20:28:03,747 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:05,951 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:08,035 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:09,054 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:10,173 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:11,631 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:12,925 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:14,481 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:16,712 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:43,809 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:537)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-04 20:28:45,798 ERROR [main] h.j.p.m.Main [Main.java:553] Došlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:528)
+	at hr.java.production.main.Main.main(Main.java:89)
+2022-02-05 08:44:28,388 INFO [main] h.j.p.m.Main [Main.java:28] Pokrenula se aplikacija
+2022-02-05 10:00:31,912 INFO [main] h.j.p.m.Main [Main.java:28] Pokrenula se aplikacija
+2022-02-05 10:19:40,000 INFO [main] h.j.p.m.Main [Main.java:28] Pokrenula se aplikacija
+2022-02-05 10:20:16,805 ERROR [main] h.j.p.m.Main [Main.java:583] null
+[35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:28][35m36[0;39m ERROR [35mPOGREŠKA!! Unjeli ste istu kategoriju, ponovite odabir
+[0;39m [Main.java:410][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:29][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:29][35m36[0;39m ERROR [35mDošlo je do pogreške pri unosu rednog broja kategorije
+[0;39m [Main.java:511]java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.production.main.Main.unosArtikla(Main.java:504)
+	at hr.java.production.main.Main.main(Main.java:91)
+[35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:26][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:26][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m ERROR [35mDošlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+[0;39m [Main.java:623]java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:598)
+	at hr.java.production.main.Main.main(Main.java:108)
+[35m36[0;39m ERROR [35mDošlo je do pogreške pri unosu rednog broja kategorije
+[0;39m [Main.java:557]java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.production.main.Main.unosArtikla(Main.java:550)
+	at hr.java.production.main.Main.main(Main.java:108)
+[35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m ERROR [35mDošlo do pogreške prilikom upisa vrijednosti vezanih za artikle
+[0;39m [Main.java:626]java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextBigDecimal(Scanner.java:2740)
+	at hr.java.production.main.Main.unosArtikla(Main.java:607)
+	at hr.java.production.main.Main.main(Main.java:108)
+[35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44][35m36[0;39m INFO [35mPokrenula se aplikacija
+[0;39m [Main.java:44]
